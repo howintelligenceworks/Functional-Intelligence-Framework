@@ -24,6 +24,9 @@ Our mission is to build a transparent, reproducible, and cumulative scientific p
 
 The Functional Intelligence Framework is under active development as an open scientific research programme. Current releases include the theoretical framework, supporting appendices, reproducibility materials, and ongoing work toward open measurement instruments and empirical validation.
 
+## Licensing
+See LICENSE.md for licensing, collaboration opportunities, and commercial use.
+
 ## Website
 
 https://howintelligenceworks.com
