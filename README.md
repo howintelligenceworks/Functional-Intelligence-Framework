@@ -1,6 +1,6 @@
 # Functional Intelligence Framework
 
-The Functional Intelligence Framework (FIF) is an open scientific framework that distinguishes intelligence from performance through a functional systems architecture.
+The Functional Intelligence (FI) Framework is an open scientific framework that distinguishes intelligence from performance through a functional systems architecture.
 
 The framework defines intelligence as **adaptive predictive modeling capacity** and proposes that performance emerges from the interaction of multiple independent systems—including input interface, reality coupling, state, access, selection, deployment, and expression. Because these systems can vary independently, performance cannot be interpreted as a direct measure of intelligence.
 
